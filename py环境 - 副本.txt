@@ -1,0 +1,3 @@
+RobotFrameword+Ride+Selenium2Library（Autoitlibrary+DatabaseLibrary）
+RIDE编辑器很方便，分层也很清晰，脚本维护方便，容易学习和看懂。
+111
